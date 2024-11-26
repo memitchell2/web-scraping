@@ -1,0 +1,628 @@
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+127.0.0.1 - - [12/Mar/2024 17:47:08] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [12/Mar/2024 17:47:08] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [12/Mar/2024 17:47:09] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [12/Mar/2024 17:47:09] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [12/Mar/2024 17:47:09] "GET /Node_2.html HTTP/1.1" 200 -
+127.0.0.1 - - [12/Mar/2024 17:47:09] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [12/Mar/2024 17:47:09] "GET /Node_5.html HTTP/1.1" 200 -
+127.0.0.1 - - [12/Mar/2024 17:47:09] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [12/Mar/2024 17:47:09] "GET /Node_3.html HTTP/1.1" 200 -
+127.0.0.1 - - [12/Mar/2024 17:47:09] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [12/Mar/2024 17:47:09] "GET /Node_6.html HTTP/1.1" 200 -
+127.0.0.1 - - [12/Mar/2024 17:47:09] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [12/Mar/2024 17:47:09] "GET /Node_4.html HTTP/1.1" 200 -
+127.0.0.1 - - [12/Mar/2024 17:47:09] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [12/Mar/2024 17:47:09] "GET /Node_7.html HTTP/1.1" 200 -
+127.0.0.1 - - [12/Mar/2024 17:47:09] "GET /styles.css HTTP/1.1" 200 -
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+127.0.0.1 - - [14/Mar/2024 19:12:12] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:12:13] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:12:14] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:12:14] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:12:14] "GET /Node_2.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:12:14] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:12:14] "GET /Node_5.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:12:14] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:12:14] "GET /Node_3.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:12:14] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:12:14] "GET /Node_6.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:12:14] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:12:14] "GET /Node_4.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:12:14] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:12:15] "GET /Node_7.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:12:15] "GET /styles.css HTTP/1.1" 200 -
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+127.0.0.1 - - [14/Mar/2024 19:16:37] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:16:37] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:16:38] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:16:38] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:16:38] "GET /Node_2.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:16:38] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:16:38] "GET /Node_5.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:16:38] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:16:38] "GET /Node_3.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:16:38] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:16:38] "GET /Node_6.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:16:38] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:16:38] "GET /Node_4.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:16:38] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:16:38] "GET /Node_7.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:16:38] "GET /styles.css HTTP/1.1" 200 -
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+127.0.0.1 - - [14/Mar/2024 19:39:36] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:39:36] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:39:37] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:39:37] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:39:37] "GET /Node_2.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:39:37] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:39:37] "GET /Node_5.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:39:37] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:39:37] "GET /Node_3.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:39:37] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:39:37] "GET /Node_6.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:39:37] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:39:37] "GET /Node_4.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:39:37] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:39:37] "GET /Node_7.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:39:37] "GET /styles.css HTTP/1.1" 200 -
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+127.0.0.1 - - [14/Mar/2024 19:40:50] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:40:50] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:40:50] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:40:50] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:40:51] "GET /Node_2.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:40:51] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:40:51] "GET /Node_5.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:40:51] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:40:51] "GET /Node_3.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:40:51] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:40:51] "GET /Node_6.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:40:51] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:40:51] "GET /Node_4.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:40:51] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:40:51] "GET /Node_7.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 19:40:51] "GET /styles.css HTTP/1.1" 200 -
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+127.0.0.1 - - [14/Mar/2024 20:06:12] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:06:12] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:06:13] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:06:13] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:06:13] "GET /Node_2.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:06:13] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:06:13] "GET /Node_5.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:06:13] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:06:13] "GET /Node_3.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:06:13] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:06:13] "GET /Node_6.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:06:13] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:06:13] "GET /Node_4.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:06:13] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:06:13] "GET /Node_7.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:06:13] "GET /styles.css HTTP/1.1" 200 -
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+127.0.0.1 - - [14/Mar/2024 20:12:52] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:12:52] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:12:53] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:12:53] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:12:53] "GET /Node_2.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:12:53] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:12:53] "GET /Node_5.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:12:53] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:12:53] "GET /Node_3.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:12:53] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:12:53] "GET /Node_6.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:12:53] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:12:53] "GET /Node_4.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:12:53] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:12:53] "GET /Node_7.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:12:53] "GET /styles.css HTTP/1.1" 200 -
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+127.0.0.1 - - [14/Mar/2024 20:14:25] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:14:25] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:14:26] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:14:26] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:14:26] "GET /Node_2.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:14:26] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:14:26] "GET /Node_5.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:14:26] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:14:26] "GET /Node_3.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:14:26] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:14:26] "GET /Node_6.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:14:26] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:14:26] "GET /Node_4.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:14:26] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:14:26] "GET /Node_7.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:14:26] "GET /styles.css HTTP/1.1" 200 -
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+127.0.0.1 - - [14/Mar/2024 20:16:44] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:16:44] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:16:44] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:16:44] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:16:44] "GET /Node_2.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:16:44] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:16:44] "GET /Node_5.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:16:44] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:16:45] "GET /Node_3.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:16:45] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:16:45] "GET /Node_6.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:16:45] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:16:45] "GET /Node_4.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:16:45] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:16:45] "GET /Node_7.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 20:16:45] "GET /styles.css HTTP/1.1" 200 -
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+127.0.0.1 - - [14/Mar/2024 21:15:32] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:15:32] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:15:32] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:15:32] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:15:32] "GET /Node_2.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:15:32] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:15:33] "GET /Node_5.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:15:33] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:15:33] "GET /Node_3.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:15:33] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:15:33] "GET /Node_6.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:15:33] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:15:33] "GET /Node_4.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:15:33] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:15:33] "GET /Node_7.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:15:33] "GET /styles.css HTTP/1.1" 200 -
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+127.0.0.1 - - [14/Mar/2024 21:16:38] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:16:38] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:16:39] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:16:39] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:16:39] "GET /Node_2.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:16:39] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:16:39] "GET /Node_5.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:16:39] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:16:39] "GET /Node_3.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:16:39] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:16:39] "GET /Node_6.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:16:39] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:16:39] "GET /Node_4.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:16:39] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:16:39] "GET /Node_7.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2024 21:16:39] "GET /styles.css HTTP/1.1" 200 -
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+127.0.0.1 - - [15/Mar/2024 06:02:58] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 06:02:58] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 06:02:59] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 06:02:59] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 06:02:59] "GET /Node_2.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 06:02:59] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 06:02:59] "GET /Node_5.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 06:02:59] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 06:02:59] "GET /Node_3.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 06:02:59] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 06:03:00] "GET /Node_6.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 06:03:00] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 06:03:00] "GET /Node_4.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 06:03:00] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 06:03:00] "GET /Node_7.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 06:03:00] "GET /styles.css HTTP/1.1" 200 -
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+127.0.0.1 - - [15/Mar/2024 20:06:42] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:06:42] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:06:43] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:06:43] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:06:43] "GET /Node_2.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:06:43] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:06:44] "GET /Node_5.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:06:44] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:06:44] "GET /Node_3.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:06:44] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:06:44] "GET /Node_6.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:06:44] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:06:44] "GET /Node_4.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:06:44] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:06:44] "GET /Node_7.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:06:44] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:06:44] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:06:44] "GET /styles.css HTTP/1.1" 200 -
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+127.0.0.1 - - [15/Mar/2024 20:13:58] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:13:58] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:13:59] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:13:59] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:13:59] "GET /Node_2.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:13:59] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:13:59] "GET /Node_5.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:13:59] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:13:59] "GET /Node_3.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:13:59] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:13:59] "GET /Node_6.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:13:59] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:13:59] "GET /Node_4.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:13:59] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:13:59] "GET /Node_7.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:13:59] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:13:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:13:59] "GET /styles.css HTTP/1.1" 200 -
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+127.0.0.1 - - [15/Mar/2024 20:15:27] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:15:27] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:15:27] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:15:27] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:15:27] "GET /Node_2.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:15:27] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:15:28] "GET /Node_5.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:15:28] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:15:28] "GET /Node_3.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:15:28] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:15:28] "GET /Node_6.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:15:28] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:15:28] "GET /Node_4.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:15:28] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:15:28] "GET /Node_7.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:15:28] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:15:28] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:15:28] "GET /styles.css HTTP/1.1" 200 -
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+127.0.0.1 - - [15/Mar/2024 20:24:56] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:24:56] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:24:56] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:24:56] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:24:56] "GET /Node_2.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:24:56] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:24:56] "GET /Node_5.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:24:56] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:24:56] "GET /Node_3.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:24:56] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:24:56] "GET /Node_6.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:24:56] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:24:56] "GET /Node_4.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:24:56] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:24:56] "GET /Node_7.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:24:56] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:24:57] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [15/Mar/2024 20:24:57] "GET /styles.css HTTP/1.1" 200 -
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+127.0.0.1 - - [16/Mar/2024 00:54:25] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:54:25] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:54:25] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:54:26] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:54:26] "GET /Node_2.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:54:26] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:54:26] "GET /Node_5.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:54:26] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:54:26] "GET /Node_3.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:54:26] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:54:26] "GET /Node_6.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:54:26] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:54:26] "GET /Node_4.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:54:26] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:54:26] "GET /Node_7.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:54:26] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:54:26] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:54:26] "GET /styles.css HTTP/1.1" 200 -
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+127.0.0.1 - - [16/Mar/2024 00:59:05] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:59:05] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:59:06] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:59:06] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:59:06] "GET /Node_2.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:59:06] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:59:06] "GET /Node_5.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:59:06] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:59:06] "GET /Node_3.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:59:06] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:59:06] "GET /Node_6.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:59:06] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:59:06] "GET /Node_4.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:59:06] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:59:06] "GET /Node_7.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:59:06] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:59:07] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:59:07] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 00:59:07] "POST /password HTTP/1.1" 200 -
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+127.0.0.1 - - [16/Mar/2024 01:04:48] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:04:48] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:04:48] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:04:48] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:04:48] "GET /Node_2.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:04:48] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:04:48] "GET /Node_5.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:04:48] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:04:48] "GET /Node_3.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:04:48] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:04:49] "GET /Node_6.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:04:49] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:04:49] "GET /Node_4.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:04:49] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:04:49] "GET /Node_7.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:04:49] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:04:49] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:04:49] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:04:49] "POST /password HTTP/1.1" 200 -
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
+127.0.0.1 - - [16/Mar/2024 01:12:34] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:12:34] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:12:35] "GET /Node_1.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:12:35] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:12:35] "GET /Node_2.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:12:35] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:12:35] "GET /Node_5.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:12:35] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:12:35] "GET /Node_3.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:12:35] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:12:35] "GET /Node_6.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:12:35] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:12:35] "GET /Node_4.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:12:35] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:12:35] "GET /Node_7.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:12:35] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:12:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:12:35] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:12:36] "POST /password HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:12:36] "GET /hidden_location.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Mar/2024 01:12:36] "GET /styles.css HTTP/1.1" 200 -
+ * Serving Flask app 'application'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.128.0.2:5001
+Press CTRL+C to quit
